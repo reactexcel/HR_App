@@ -53,6 +53,5 @@ $ npm run build            # Before build make sure is has .env file and base ur
 ```
 
   It's done !
-  You can now run the dev server `http://dev.hr.excellencetechnologies.in/hr/cra/#/` in your browser.
+  You can now run the dev server `http://dev.hr.excellencetechnologies.in/HR_App/frontend/build/` in your browser.
 
-  NOTE: if `ReactReduxHR` not exist, then you have first clone the project and then follow the above steps.
